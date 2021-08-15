@@ -2,12 +2,11 @@
 title: Train service design in an urban rail transit line incorporating multiple
   service routes and multiple train compositions
 publication_types:
-  - "1"
   - "2"
 authors:
-  - Zhengyang-Li
-  - Jun-Zhao
-  - Qiyuan-Peng
+  - Zhengyang Li
+  - Jun Zhao
+  - Qiyuan Peng
 publication_short: ""
 abstract: This paper focuses on the train service design problem within a given
   period in an urban rail transit line, where multiple either full-length or
