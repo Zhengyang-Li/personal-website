@@ -15,6 +15,7 @@ design:
     gradient_start: DarkGreen
     gradient_end: ForestGreen
     text_color_light: true
+    image: 20170610_img_3429.jpg
   spacing:
     padding:
       - 20px
