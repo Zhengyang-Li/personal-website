@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: zhengyang.li@connect.polyu.hk
+    link: "#contact"
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=I4TalCwAAAAJ&hl=zh-CN
