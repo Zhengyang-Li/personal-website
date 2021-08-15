@@ -22,7 +22,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/zhengyang-li-14ab67205/
 organizations:
-  - name: Hong Kong Polytechnic University
+  - name: The Hong Kong Polytechnic University
     url: https://www.polyu.edu.hk/
 education:
   courses:
