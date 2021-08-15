@@ -5,9 +5,9 @@ publication_types:
   - "1"
   - "2"
 authors:
-  - Zhengyang_Li
-  - Jun_Zhao
-  - Qiyuan_peng
+  - Zhengyang-Li
+  - Jun-Zhao
+  - Qiyuan-Peng
 publication_short: ""
 abstract: This paper focuses on the train service design problem within a given
   period in an urban rail transit line, where multiple either full-length or
@@ -54,7 +54,7 @@ projects:
   - example
 date: 2021-01-25T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
