@@ -29,10 +29,10 @@ education:
     - course: Ph.D. in Transportation Engineering, expected
       institution: The Hong Kong Polytechnic University
       year: 2023
-    - course: MEng in Transportation Planning and Management
+    - course: M.Eng. in Transportation Planning and Management
       institution: Southwest Jiaotong University
       year: 2020
-    - course: BEng in Transportation
+    - course: B.Eng. in Transportation
       institution: Southwest Jiaotong University
       year: 2017
 email: zhengyang.li@connect.polyu.hk
