@@ -35,7 +35,7 @@ education:
     - course: BEng in Transportation
       institution: Southwest Jiaotong University
       year: 2017
-email: ""
+email: zhengyang.li@connect.polyu.hk
 superuser: true
 highlight_name: false
 ---
