@@ -29,7 +29,7 @@ item:
 widget_id: SELECTED HONORS AND AWARDS
 headless: true
 weight: 50
-title: 2019 National Scholarship for Graduate Students, 20,000 CNY.
+title: ""
 subtitle: null
 design:
   columns: "2"
