@@ -29,7 +29,7 @@ item:
 widget_id: SELECTED HONORS AND AWARDS
 headless: true
 weight: 50
-title: ""
+title: Accomplishments
 subtitle: null
 design:
   columns: "2"
