@@ -1,21 +1,10 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: Biography
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
+Zhengyang Li (李正洋 in Chinese) is a Ph.D. student in the Department of Civil and Environmental Engineering, the Hong Kong Polytechnic University (PolyU). His research interests include public transit, traffic assignment, and network optimization. Most of the works are related to Operations Research. Although this guy would like to call himself an ORer, he still has a long journey ahead.
