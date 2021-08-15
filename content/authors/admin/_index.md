@@ -1,7 +1,7 @@
 ---
 title: Zhengyang Li
 role: Ph.D. student in Transportation Engineering
-avatar_filename: 1629031968-1-.jpg
+avatar_filename: smallfigure.jpg
 bio: My research interests include traffic assignment, public transport and
   network optimization.
 interests:
