@@ -26,9 +26,9 @@ organizations:
     url: https://www.polyu.edu.hk/
 education:
   courses:
-    - course: Ph.D. in Transportation Engineering, expected
+    - course: Ph.D. in Transportation Engineering
       institution: The Hong Kong Polytechnic University
-      year: 2023
+      year: expected 2023
     - course: M.Eng. in Transportation Planning and Management
       institution: Southwest Jiaotong University
       year: 2020
