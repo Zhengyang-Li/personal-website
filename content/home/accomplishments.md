@@ -6,7 +6,7 @@ item:
     date_end: ""
     date_start: 2020-06-25
     description: ""
-    organization: Coursera
+    organization: Southwest Jiaotong University
     organization_url: https://ctt.swjtu.edu.cn/
     title: Valedictorian of the School of Transportation and Logistics, Southwest Jiaotong University
     url: ""
