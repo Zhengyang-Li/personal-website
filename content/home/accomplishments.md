@@ -2,12 +2,12 @@
 widget: accomplishments
 date_format: Jan 2006
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://ctt.swjtu.edu.cn/
     date_end: ""
     date_start: 2020-06-25
     description: ""
     organization: Coursera
-    organization_url: https://www.coursera.org
+    organization_url: https://ctt.swjtu.edu.cn/
     title: Valedictorian of the School of Transportation and Logistics, Southwest Jiaotong University
     url: ""
   - certificate_url: https://www.edx.org
