@@ -2,13 +2,13 @@
 widget: accomplishments
 date_format: Jan 2006
 item:
-  - certificate_url: https://ctt.swjtu.edu.cn/
+  - certificate_url:
     date_end: ""
     date_start: 2020-06-25
-    description: ""
+    description: "School of Transportation and Logistics, Southwest Jiaotong University"
     organization: Southwest Jiaotong University
-    organization_url: https://ctt.swjtu.edu.cn/
-    title: Valedictorian of the School of Transportation and Logistics, Southwest Jiaotong University
+    organization_url:
+    title: Valedictorian
     url: ""
   - certificate_url: https://www.edx.org
     date_end: ""
