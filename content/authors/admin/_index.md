@@ -8,6 +8,7 @@ interests:
   - Traffic assignment
   - Public transport
   - Network optimization.
+  - Reliable shortest path problem.
 social:
   - icon: envelope
     icon_pack: fas
